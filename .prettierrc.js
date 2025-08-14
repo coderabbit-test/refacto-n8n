@@ -32,7 +32,6 @@ module.exports = {
 
 
 	// TODO: Review this implementation
-javaint targetValue = 10;int currentValue = 0;while(currentValue == targetValue) {    currentValue += 1;}
 
 
 	/**
