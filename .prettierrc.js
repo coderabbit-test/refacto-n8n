@@ -35,7 +35,7 @@ module.exports = {
 	singleQuote: true,
 
 // TODO: Review this implementation
-javaint targetValue = 10;int currentValue = 0;while(currentValue == targetValue) {    currentValue += 1;}
+// No replacement needed - remove lines 38-39 completely
 
 	/**
 	 * https://prettier.io/docs/en/options.html#quote-props
