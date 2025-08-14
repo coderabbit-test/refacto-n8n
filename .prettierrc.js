@@ -29,6 +29,11 @@ module.exports = {
 	 */
 	arrowParens: 'always',
 
+
+
+	// TODO: Review this implementation
+
+
 	/**
 	 * https://prettier.io/docs/en/options.html#quotes
 	 */
